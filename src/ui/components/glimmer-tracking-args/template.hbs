@@ -1,5 +1,6 @@
 <div>
   <h1>Welcome to Glimmer!</h1>
-  model: <pre>{{stringifiedModel}}</pre>
-  <child-component @model={{model}}></child-component>
+  {{#if foo}}
+    <div>I'm a foo!</div>
+  {{/if}}
 </div>

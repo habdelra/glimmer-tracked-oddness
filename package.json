@@ -14,7 +14,7 @@
   "devDependencies": {
     "@glimmer/application": "^0.4.0",
     "@glimmer/application-pipeline": "^0.5.2",
-    "@glimmer/component": "^0.3.8",
+    "@glimmer/component": "^0.3.9",
     "@glimmer/resolver": "^0.3.0",
     "ember-cli": "github:ember-cli/ember-cli",
     "ember-cli-inject-live-reload": "^1.6.1",
